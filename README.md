@@ -246,7 +246,7 @@ fetch(request)
 
 现在已经使用了cloudflare的代理。
 
-下面我们将筛选cloudflare的高速节点。
+下面我们将筛选cloudflare的高速节点.
 
 克隆本项目到你的电脑上。
 
